@@ -5,6 +5,8 @@
 🤔 I’m looking for freelancing and opensource project
 💬 Ask me about programming
 📫 How to reach me : https://www.linkedin.com/in/nishant-pandey-10415326a/
+😄 I was also a beginner
+⚡ Fun fact: Dear Git Algorithm: Connect me with people interested in 💻⌛🔥✌️
 
 <!---
 Niishant11/Niishant11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
