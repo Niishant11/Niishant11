@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">A passionate about new technology from India</h3>
+<h3 align="center">I'm a passionate programmer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niishant11" alt="niishant11" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+• 🧑‍💻 I’m currently working on a WebDev.
 
-- 👯 I’m looking to collaborate on **Python Projects**
+• 🌱 I’m currently learning Python, Web & Android Development.
 
-- 🤝 I’m looking for help with **Python**
+• 👀 I’m interested to collaborate on Python, WebDev Project's
 
 - 👨‍💻 All of my projects are available at [https://github.com/Niishant11](https://github.com/Niishant11)
 
-- 💬 Ask me about **DSA, Algorithims**
+• 💬 You can ask me about Python, C, C++.
 
-- 📫 How to reach me **https://www.linkedin.com/in/nishant-pandey-10415326a/**
+- 📫 How to reach me **www.linkedin.com/in/nishantpandey11**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
