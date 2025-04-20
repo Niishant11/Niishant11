@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant+Pandey!;Passionate+Programmer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Web+Dev+%7C+AI+%26+ML+Enthusiast;Always+Learning+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant!;Passionate+Programmer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Web+Dev+%7C+AI+%26+ML+Enthusiast;Always+Learning+%E2%9C%85" alt="Typing SVG" />
 
 <br />
 
