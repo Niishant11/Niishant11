@@ -1,27 +1,76 @@
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">I'm a passionate programmer from India.</h3>
+<h1 align="center">Hi 👋, I'm Nishant Pandey</h1>
+<h3 align="center">Web Developer | AIML Student | Passionate Programmer from India 🇮🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niishant11" alt="niishant11" /></a> </p>
-
-• 🧑‍💻 I’m currently working on a WebDev.
-
-• 🌱 I’m currently learning Python, Web & Android Development.
-
-• 👀 I’m interested to collaborate on Python, WebDev Project's
-
-- 👨‍💻 All of my projects are available at [https://github.com/Niishant11](https://github.com/Niishant11)
-
-• 💬 You can ask me about Python, C, C++.
-
-- 📫 How to reach me **www.linkedin.com/in/nishantpandey11**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/niishant11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="niishant11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/nishantpandey11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-pandey-10415326a/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Niishant11">
+    <img src="https://komarev.com/ghpvc/?username=niishant11&label=Profile%20views&color=0e75b6&style=flat" alt="niishant11" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishant-pandey-10415326a/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niishant11&show_icons=true&locale=en&layout=compact" alt="niishant11" /></p>
+### 🚀 About Me
+
+- 🎓 Pursuing B.Tech in **CSE with AI/ML** specialization from **Dr. A.P.J. Abdul Kalam Technical University**  
+- 🎓 Diploma in Computer Science from **Arunachal University of Studies**
+- 👨‍💻 Currently building **Web Development** projects with a focus on innovation and user experience
+- 🌱 Learning **Python**, **Web**, and **Android Development**
+- 🤝 Looking to collaborate on **Python** and **Full Stack WebDev** projects
+- 🧠 Ask me about **Python**, **C**, **C++**, or building web platforms
+- 📌 Web & Marketing Head @ **GeeksforGeeks Student Chapter - ITSEC**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+🔹 **[Turn the Page](https://github.com/Niishant11/Turn-The-Page)**  
+*Online Platform for Book Buying, Selling, Donating & e-Library*  
+> 📚 A unique digital + physical platform promoting book accessibility and eco-friendliness.
+
+🔹 **[BookBridge](https://github.com/Niishant11/BookBridge)**  
+*An open space to buy, sell, and donate books online.*
+
+🔹 **[Website_Dev](https://github.com/Niishant11/WebSite_Dev)**  
+> My collection of HTML/CSS practice and frontend demos.
+
+🔹 **[Python Projects](https://github.com/Niishant11/Python-Project)**  
+> Core logic-building and mini tools built using Python.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niishant11&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niishant11&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nishant-pandey-10415326a/)
+- 🧑‍💻 [GitHub](https://github.com/Niishant11)
+- ✉️ Email: nishantpandey1896@gmail.com
+
+---
+
+_“Consistency is more important than perfection.”_ 🚀  
