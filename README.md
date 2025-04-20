@@ -12,8 +12,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a **Computer Science & Engineering (AI/ML)** student at **Dr. A.P.J. Abdul Kalam Technical University**  
-🎓 I also hold a **Diploma in Computer Science** from **Arunachal University of Studies**  
+🎓 I'm a **Computer Science & Engineering (AI/ML)** student   
 💼 Currently serving as **Web Development & Marketing Head** at **GeeksforGeeks Student Chapter - ITSEC**  
 🚀 I'm passionate about **building impactful web apps**, solving problems with code, and learning new tech!  
 📚 Always exploring the latest in **AI/ML**, **Python**, and **Full Stack Web Development**
@@ -23,7 +22,7 @@
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,react,mysql,firebase,androidstudio,git,github,aws,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,androidstudio,git,github,aws,vscode,canva" />
 </p>
 
 ---
@@ -62,7 +61,7 @@ Mini tools, scripts, and practice projects to sharpen Python skills.
 <p align="center">
   <a href="https://www.linkedin.com/in/nishant-pandey-10415326a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Niishant11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:nishantpandey1896@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nishantpandey1140@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
