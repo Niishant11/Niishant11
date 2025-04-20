@@ -1,76 +1,88 @@
-<h1 align="center">Hi 👋, I'm Nishant Pandey</h1>
-<h3 align="center">Web Developer | AIML Student | Passionate Programmer from India 🇮🇳</h3>
+<!-- Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant+Pandey!;Passionate+Programmer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Web+Dev+%7C+AI+%26+ML+Enthusiast;Always+Learning+%E2%9C%85" alt="Typing SVG" />
 
+<br />
+
+<!-- Intro -->
 <p align="center">
-  <a href="https://github.com/Niishant11">
-    <img src="https://komarev.com/ghpvc/?username=niishant11&label=Profile%20views&color=0e75b6&style=flat" alt="niishant11" />
-  </a>
-  <a href="https://www.linkedin.com/in/nishant-pandey-10415326a/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🎓 Pursuing B.Tech in **CSE with AI/ML** specialization from **Dr. A.P.J. Abdul Kalam Technical University**  
-- 🎓 Diploma in Computer Science from **Arunachal University of Studies**
-- 👨‍💻 Currently building **Web Development** projects with a focus on innovation and user experience
-- 🌱 Learning **Python**, **Web**, and **Android Development**
-- 🤝 Looking to collaborate on **Python** and **Full Stack WebDev** projects
-- 🧠 Ask me about **Python**, **C**, **C++**, or building web platforms
-- 📌 Web & Marketing Head @ **GeeksforGeeks Student Chapter - ITSEC**
+🎓 I'm a **Computer Science & Engineering (AI/ML)** student at **Dr. A.P.J. Abdul Kalam Technical University**  
+🎓 I also hold a **Diploma in Computer Science** from **Arunachal University of Studies**  
+💼 Currently serving as **Web Development & Marketing Head** at **GeeksforGeeks Student Chapter - ITSEC**  
+🚀 I'm passionate about **building impactful web apps**, solving problems with code, and learning new tech!  
+📚 Always exploring the latest in **AI/ML**, **Python**, and **Full Stack Web Development**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🔧 Tech Stack & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,react,mysql,firebase,androidstudio,git,github,aws,figma,vscode" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-🔹 **[Turn the Page](https://github.com/Niishant11/Turn-The-Page)**  
-*Online Platform for Book Buying, Selling, Donating & e-Library*  
-> 📚 A unique digital + physical platform promoting book accessibility and eco-friendliness.
+#### 🚀 [Turn the Page](https://github.com/Niishant11/Turn-The-Page)  
+An eco-friendly **book-sharing & e-library platform** that enables buying, selling, donating, and borrowing books.
 
-🔹 **[BookBridge](https://github.com/Niishant11/BookBridge)**  
-*An open space to buy, sell, and donate books online.*
+#### 📚 [BookBridge](https://github.com/Niishant11/BookBridge)  
+Connects readers to exchange books. **Simple UI + Book Listings + Donation Flow**.
 
-🔹 **[Website_Dev](https://github.com/Niishant11/WebSite_Dev)**  
-> My collection of HTML/CSS practice and frontend demos.
+#### 🌐 [Website_Dev](https://github.com/Niishant11/WebSite_Dev)  
+HTML/CSS practice space and experimental web components.
 
-🔹 **[Python Projects](https://github.com/Niishant11/Python-Project)**  
-> Core logic-building and mini tools built using Python.
+#### 🐍 [Python-Project](https://github.com/Niishant11/Python-Project)  
+Mini tools, scripts, and practice projects to sharpen Python skills.
 
 ---
 
-### 📈 GitHub Stats
+### 💻 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niishant11&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niishant11&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niishant11&theme=tokyonight&show_icons=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niishant11&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niishant11&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📬 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nishant-pandey-10415326a/)
-- 🧑‍💻 [GitHub](https://github.com/Niishant11)
-- ✉️ Email: nishantpandey1896@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishant-pandey-10415326a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Niishant11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nishantpandey1896@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-_“Consistency is more important than perfection.”_ 🚀  
+### ✨ Fun Facts
+
+- 🧠 I enjoy solving logic puzzles and coding challenges  
+- 🎨 I’ve worked on **CorelDRAW**, **Canva**, and **Figma** for design  
+- 🎯 I'm detail-oriented and love turning ideas into fully working projects  
+- 🧑‍🏫 I also taught computer skills to school students at **Aarohan NGO**
+
+---
+
+### 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=100&section=footer" />
+</p>
