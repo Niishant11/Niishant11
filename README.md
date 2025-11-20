@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 🎓 I'm a **Computer Science & Engineering (AI/ML)** student   
-💼 Currently serving as **Web Development & Marketing Head** at **GeeksforGeeks Student Chapter - ITSEC**  
+💼 Currently open for work!!! 
 🚀 I'm passionate about **building impactful web apps**, solving problems with code, and learning new tech!  
 📚 Always exploring the latest in **AI/ML**, **Python**, and **Full Stack Web Development**
 
