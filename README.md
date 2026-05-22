@@ -1,7 +1,8 @@
-<!-- ======================= HEADER BANNER ======================= -->
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nishant+Pandey;AI%2FML+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Web+%26+AI+Solutions;Open+Source+Contributor+%F0%9F%9A%80;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Nishant+Pandey;AI%2FML+Engineer+%7C+Full+Stack+Developer;Automation+%7C+Cloud+%7C+Open+Source;Building+Scalable+AI+Solutions;Always+Learning+New+Technologies" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d4c3f95-9b0b-4b56-84f5-0f8c2f9f6f9b.gif" width="250"/>
 
@@ -14,29 +15,30 @@
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 🎓 B.Tech CSE (AI/ML) Student  
-💻 Passionate Full Stack Developer & AI Enthusiast  
-🚀 Building impactful real-world projects with modern technologies  
-📚 Exploring AI, Machine Learning, Backend Systems & Cloud  
-🌱 Constantly improving problem-solving and development skills  
-🧠 Strong interest in Open Source & Scalable Applications  
-🎯 Goal: To become a skilled AI Engineer & Software Developer
+💻 Full Stack Developer & AI Enthusiast  
+🚀 Passionate about Automation, AI Systems & Web Applications  
+⚡ Building scalable and impactful real-world projects  
+📚 Exploring Machine Learning, Cloud & Backend Systems  
+🎯 Goal: Becoming a top-tier AI Engineer & Software Developer  
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nishant-pandey-10415326a/" target="blank">
+
+<a href="https://www.linkedin.com/in/nishant-pandey-10415326a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Niishant11" target="blank">
+<a href="https://github.com/Niishant11" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:nishantpandey1140@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -45,17 +47,79 @@
 
 <div align="center">
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
 
-### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
+</td>
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
+</td>
 
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,androidstudio,canva,figma" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>NodeJS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br>Figma
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -63,43 +127,60 @@
 
 # 🚀 Featured Projects
 
-## 📚 Turn The Page
-🔹 AI-powered book-sharing & e-library platform  
-🔹 Buy, Sell, Donate & Borrow books digitally  
-🔹 Focused on sustainability & accessible education  
+## 🧠 Hybrid CNN–Transformer Image Denoising
+🔹 Built a Hybrid AI model combining DnCNN + Restormer  
+🔹 Trained on BSD500 dataset for image denoising  
+🔹 Achieved **27.94 dB PSNR** & **0.8158 SSIM**  
+🔹 Implemented tiled inference & real-time GUI visualization  
 
-🔗 **Repository:**  
-https://github.com/Niishant11/Turn-The-Page
+---
+
+## 🤖 Voice Activated AI Assistant (Jarvis)
+🔹 AI-powered voice assistant using GPT-3.5  
+🔹 Voice interaction with Speech Recognition & gTTS  
+🔹 Automates tasks like web browsing, news & music  
+🔹 Integrated multiple APIs for real-time responses  
+
+---
+
+## 📚 Turn The Page
+🔹 Smart e-library & book-sharing platform  
+🔹 Buy, Sell, Donate & Borrow Books  
+🔹 Eco-friendly learning-focused platform  
+
+🔗 https://github.com/Niishant11/Turn-The-Page
 
 ---
 
 ## 🌉 BookBridge
-🔹 Community-driven book exchange platform  
-🔹 Donation workflows & user-friendly listings  
-🔹 Designed for readers and learners  
+🔹 Community-based book exchange platform  
+🔹 Simple UI with donation & listing workflow  
+🔹 Designed for readers & students  
 
-🔗 **Repository:**  
-https://github.com/Niishant11/BookBridge
-
----
-
-## 🌐 Website Dev
-🔹 Collection of responsive frontend components  
-🔹 UI/UX practice and experimental layouts  
-🔹 Built using HTML, CSS & JavaScript  
-
-🔗 **Repository:**  
-https://github.com/Niishant11/WebSite_Dev
+🔗 https://github.com/Niishant11/BookBridge
 
 ---
 
-## 🐍 Python Projects
-🔹 Automation scripts & mini Python applications  
-🔹 Practical learning projects for problem solving  
-🔹 Focused on Python fundamentals & utilities  
+# 💼 Experience
 
-🔗 **Repository:**  
-https://github.com/Niishant11/Python-Project
+## 🚀 R Systems International Limited
+### Software Engineer Trainee — Panasonic Team
+
+🔹 Worked on Core Automation & UI Development  
+🔹 Built AI-powered Playwright + Gemini automation framework  
+🔹 Reduced manual QA effort by 60%  
+🔹 Dockerized testing environments for scalable deployment  
+
+---
+
+## 🌌 Space Technology and Education Pvt. Ltd.
+
+### Website Executive & Intern
+
+🔹 Managed backend systems for 5000+ students  
+🔹 Coordinated 150+ academic events  
+🔹 Improved engagement through content & reporting systems  
+🔹 Managed social media & platform operations  
 
 ---
 
@@ -117,13 +198,12 @@ https://github.com/Niishant11/Python-Project
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements & Certifications
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Niishant11&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
+🏅 AWS Academy Cloud Foundations  
+🏅 DSA Using C++ — RCPL  
+🏅 Python In-Depth Course — Udemy  
+🏅 Open Source Contributor — GSSOC  
 
 ---
 
@@ -139,48 +219,19 @@ https://github.com/Niishant11/Python-Project
 
 # 🧠 Currently Learning
 
-✨ Machine Learning & Deep Learning  
-✨ AI Model Training & Optimization  
-✨ Backend Architecture & APIs  
-✨ Cloud & Deployment Technologies  
-✨ Advanced React & Full Stack Development  
+✨ Deep Learning & AI Systems  
+✨ Automation Frameworks  
+✨ Cloud & DevOps  
+✨ Scalable Backend Architecture  
+✨ Advanced Full Stack Development  
 
 ---
 
-# 💼 Experience
-
-🔹 Web Development & Marketing Head — GeeksforGeeks Student Chapter  
-🔹 Website Executive — iAstronomer  
-🔹 Computer Skills Trainer — Aarohan NGO  
-
----
-
-# ✨ Fun Facts
-
-🎯 I enjoy solving coding challenges & logic problems  
-🎨 Experienced with Canva, CorelDRAW & Figma  
-🧑‍🏫 Taught computer skills and web basics to students  
-🚀 Love transforming ideas into real-world products  
-
----
-
-# 🔥 Profile Views & Followers
+# 🔥 Profile Views
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Niishant11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-
-<img src="https://img.shields.io/github/followers/Niishant11?style=for-the-badge&logo=github"/>
-
-</div>
-
----
-
-# 💡 Quote Of The Day
-
-<div align="center">
-
-### *"Code. Learn. Build. Repeat."* 🚀
+<img src="https://komarev.com/ghpvc/?username=Niishant11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -188,6 +239,8 @@ https://github.com/Niishant11/Python-Project
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E3A8A&height=140&section=footer"/>
+### 🚀 "Building intelligent systems with code and creativity."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E3A8A&height=130&section=footer"/>
 
 </div>
