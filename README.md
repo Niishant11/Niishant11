@@ -1,87 +1,134 @@
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant!;Passionate+Programmer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Web+Dev+%7C+AI+%26+ML+Enthusiast;Always+Learning+%E2%9C%85" alt="Typing SVG" />
+<div align="center">
 
-<br />
+```
+███╗   ██╗██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗
+████╗  ██║██║██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝
+██╔██╗ ██║██║███████╗███████║███████║██╔██╗ ██║   ██║   
+██║╚██╗██║██║╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║   
+██║ ╚████║██║███████║██║  ██║██║  ██║██║ ╚████║   ██║   
+╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
+```
 
-<!-- Intro -->
-<p align="center" >
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
+### `AI/ML Engineer · Full Stack Developer · Open Source Enthusiast`
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-pandey-10415326a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Niishant11)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishantpandey1140@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](#)
 
-### 👨‍💻 About Me
-
-🎓 I'm a **Computer Science & Engineering (AI/ML)** student   
-💼 Currently open for work!!!                                   
-🚀 I'm passionate about **building impactful web apps**, solving problems with code, and learning new tech!  
-📚 Always exploring the latest in **AI/ML**, **Python**, and **Full Stack Web Development**
-
----
-
-### 🔧 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,androidstudio,git,github,aws,vscode,canva" />
-</p>
+</div>
 
 ---
 
-### 📌 Featured Projects
+## About
 
-#### 🚀 [Turn the Page](https://github.com/Niishant11/Turn-The-Page)  
-An eco-friendly **book-sharing & e-library platform** that enables buying, selling, donating, and borrowing books.
+I build at the intersection of deep learning, automation, and full-stack development — from hybrid CNN-Transformer models for image restoration to AI-powered self-healing test frameworks. I care deeply about writing clean, purposeful code that solves actual problems.
 
-#### 📚 [BookBridge](https://github.com/Niishant11/BookBridge)  
-Connects readers to exchange books. **Simple UI + Book Listings + Donation Flow**.
-
-#### 🌐 [Website_Dev](https://github.com/Niishant11/WebSite_Dev)  
-HTML/CSS practice space and experimental web components.
-
-#### 🐍 [Python-Project](https://github.com/Niishant11/Python-Project)  
-Mini tools, scripts, and practice projects to sharpen Python skills.
+- ⚙️ Shipped **production-grade automation systems** with Playwright + Gemini AI
+- 🌱 Exploring **LLM orchestration**, agentic systems, and scalable ML pipelines
+- 🤝 Open to collaboration and impactful open source projects
 
 ---
 
-### 💻 GitHub Stats & Activity
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niishant11&theme=tokyonight&show_icons=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niishant11&layout=compact&theme=tokyonight" height="180"/>
-</p>
+**Languages**
+```
+Python  ██████████████████░░  90%     C/C++   ██████████████░░░░░░  70%
+Java    ████████████░░░░░░░░  60%     JS      ████████████░░░░░░░░  60%
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niishant11&theme=tokyonight" height="180"/>
-</p>
+**AI / ML**
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 📬 Let's Connect!
+**Web & Infra**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishant-pandey-10415326a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Niishant11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:nishantpandey1140@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
----
+**Testing & Automation**
 
-### ✨ Fun Facts
-
-- 🧠 I enjoy solving logic puzzles and coding challenges  
-- 🎨 I’ve worked on **CorelDRAW**, **Canva**, and **Figma** for design  
-- 🎯 I'm detail-oriented and love turning ideas into fully working projects  
-- 🧑‍🏫 I also taught computer skills to school students at **Aarohan NGO**
-
----
-
-### 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=100&section=footer" />
-</p>
+## Featured Work
+
+### 🧠 Hybrid CNN–Transformer Image Denoising
+> Deep learning research project combining **DnCNN + Restormer** for state-of-the-art image denoising
+
+- Trained on **BSD500** with Gaussian noise (σ = 5–50) using Charbonnier + SSIM loss
+- Achieved **27.94 dB PSNR** and **0.8158 SSIM** on 200 test images
+- Built a full end-to-end pipeline: noise injection → tiled inference → post-processing → real-time GUI
+
+`PyTorch` `CNNs` `Transformers` `Computer Vision` `Signal Processing`
+
+---
+
+### 🗣️ Voice-Activated AI Assistant (Jarvis)
+> Context-aware voice assistant powered by **OpenAI GPT-3.5**
+
+- Natural voice I/O via Google Speech Recognition + gTTS
+- Automates web browsing, media playback, and real-time news via voice commands
+- Modular plugin architecture using `webbrowser`, `pygame`, `requests`
+
+`OpenAI API` `Speech Recognition` `Python` `NLP`
+
+---
+
+### 📚 Turn the Page — Eco-Friendly Book Exchange Platform
+> Full-stack platform for **buying, selling, donating, and borrowing books**
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Niishant11/Turn-The-Page)
+
+`PHP` `MySQL` `HTML/CSS` `Bootstrap`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=niishant11&theme=github_dark_dimmed&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niishant11&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niishant11&theme=github-dark-blue&hide_border=true&background=0d1117" height="160"/>
+
+</div>
+
+---
+
+## Certifications
+
+- 🏅 **AWS Academy Graduate** — Cloud Foundations
+- 📘 **DSA Using C++** — RCPL (Ritusha Consultants Pvt. Ltd.)
+- 🐍 **Python For Beginners In-Depth** — Horizon Tech (Udemy)
+
+---
+
+## Beyond the Code
+
+- 🧩 Competitive programmer and logic puzzle enthusiast
+- 🎨 Design-literate — Canva, Figma, CorelDRAW
+- 🧑‍🏫 Volunteered as a computer skills instructor at **Aarohan NGO**
+- 🤝 Team lead — coordinated 150+ academic events across 150+ institutions
+
+---
+
+<div align="center">
+
+*"I build things that work, then I make them work better."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=niishant11&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
