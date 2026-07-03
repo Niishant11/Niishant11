@@ -14,12 +14,12 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-🎓 B.Tech CSE (AI/ML) Student  
-💻 Full Stack Developer & AI Enthusiast  
-🚀 Passionate about Automation, AI Systems & Web Applications  
-⚡ Building scalable and impactful real-world projects  
-📚 Exploring Machine Learning, Cloud & Backend Systems  
-🎯 Goal: Becoming a top-tier AI Engineer & Software Developer  
+🎓 B.Tech CSE (AI & ML) | June 2026
+💻 Software Developer | AI & ML Enthusiast
+🚀 Hands-on experience in AI Automation, Web Development & Computer Vision
+⚡ Building real-world solutions with Python, React, Docker & Playwright
+📚 Always learning, solving problems, and creating impactful products
+🎯 Open to Software Development & AI/ML Opportunities
 
 ---
 
