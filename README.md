@@ -148,17 +148,6 @@
 🔹 Buy, Sell, Donate & Borrow Books  
 🔹 Eco-friendly learning-focused platform  
 
-🔗 https://github.com/Niishant11/Turn-The-Page
-
----
-
-## 🌉 BookBridge
-🔹 Community-based book exchange platform  
-🔹 Simple UI with donation & listing workflow  
-🔹 Designed for readers & students  
-
-🔗 https://github.com/Niishant11/BookBridge
-
 ---
 
 # 💼 Experience
