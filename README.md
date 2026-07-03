@@ -14,7 +14,7 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-🎓 B.Tech CSE (AI & ML) | June 2026  
+🎓 B.Tech CSE (AI & ML) Graduate | 2026  
 💻 Software Developer | AI & ML Enthusiast  
 🚀 Hands-on experience in AI Automation, Web Development & Computer Vision  
 ⚡ Building real-world solutions with Python, React, Docker & Playwright  
